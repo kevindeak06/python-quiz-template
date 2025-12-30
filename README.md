@@ -9,7 +9,7 @@ A console-based multiple-choice quiz game. I designed this project to be a **reu
 * **Input Validation:** The game protects against invalid inputs (ensures the user types A, B, or C).
 * **Score Calculation:** Automatically calculates the success percentage at the end.
 
-## 🛠 How to Customize
+## How to Customize
 To create your own quiz, simply edit the `questions`, `options`, and `answers` variables in the `quiz_game.py` file.
 
 ## How to Run
